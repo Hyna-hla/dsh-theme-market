@@ -1,0 +1,50 @@
+{
+  "updated": "2026-08-17",
+  "themes": [
+    {
+      "id": "deeplook",
+      "name": "DeepLook",
+      "author": "达妮娅",
+      "description": "",
+      "version": "1.0",
+      "palette": [
+        "#F8F8F8",
+        "#FFFFFF",
+        "#4D6BFE",
+        "#081018",
+        "#e2e2e2"
+      ],
+      "zip": "themes/deeplook.dshTheme.zip"
+    },
+    {
+      "id": "deeplook-dark",
+      "name": "DeepLook 深色",
+      "author": "达妮娅",
+      "description": "",
+      "version": "1.0",
+      "palette": [
+        "#0D1117",
+        "#161B22",
+        "#4D6BFE",
+        "#E6EDF3",
+        "#21262d"
+      ],
+      "zip": "themes/deeplook-dark.dshTheme.zip"
+    },
+    {
+      "id": "aurora",
+      "name": "极光紫",
+      "author": "达妮娅",
+      "description": "",
+      "version": "1.0",
+      "palette": [
+        "#14101F",
+        "#1E1830",
+        "#9D7BFF",
+        "#F0EAFB",
+        "#3A3058"
+      ],
+      "zip": "themes/aurora.dshTheme.zip"
+    }
+  ]
+}
