@@ -2,10 +2,85 @@
   "updated": "2026-08-17",
   "themes": [
     {
+      "id": "black",
+      "name": "纯黑",
+      "author": "达妮娅",
+      "description": "OLED 纯黑底 + 经典蓝，官方原内置主题",
+      "version": "1.0",
+      "palette": [
+        "#000000",
+        "#121418",
+        "#4D7CFE",
+        "#E8EDF5",
+        "#2A2F3A"
+      ],
+      "zip": "themes/black.dshTheme.zip"
+    },
+    {
+      "id": "codex",
+      "name": "Codex CLI",
+      "author": "达妮娅",
+      "description": "终端等宽字体 + 方角卡片的 CLI 风格",
+      "version": "1.0",
+      "palette": [
+        "#0B0D0E",
+        "#151718",
+        "#CC7B5B",
+        "#F0F0EC",
+        "#2B2E2F"
+      ],
+      "zip": "themes/codex.dshTheme.zip"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "夜之城 2077",
+      "author": "达妮娅",
+      "description": "NC 黄 × 霓虹青切角 HUD 风格",
+      "version": "1.0",
+      "palette": [
+        "#05070D",
+        "#0A0E18",
+        "#FCE300",
+        "#E8F1FF",
+        "#1B2A42"
+      ],
+      "zip": "themes/cyberpunk.dshTheme.zip"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT 深色",
+      "author": "达妮娅",
+      "description": "纯黑扁平 + 胶囊输入栏的 ChatGPT 风格",
+      "version": "1.0",
+      "palette": [
+        "#000000",
+        "#1C1C1E",
+        "#3B82F6",
+        "#FFFFFF",
+        "#2C2C2E"
+      ],
+      "zip": "themes/chatgpt.dshTheme.zip"
+    },
+    {
+      "id": "claude",
+      "name": "Claude 暖调",
+      "author": "达妮娅",
+      "description": "衬线大标题 + 超大圆角输入容器 + 陶土橙",
+      "version": "1.0",
+      "palette": [
+        "#171716",
+        "#242423",
+        "#E8755A",
+        "#F5F5F4",
+        "#2A2A29"
+      ],
+      "zip": "themes/claude.dshTheme.zip"
+    },
+    {
       "id": "deeplook",
       "name": "DeepLook",
       "author": "达妮娅",
-      "description": "",
+      "description": "iOS 分组列表浅色风格 + 品牌蓝",
       "version": "1.0",
       "palette": [
         "#F8F8F8",
@@ -20,7 +95,7 @@
       "id": "deeplook-dark",
       "name": "DeepLook 深色",
       "author": "达妮娅",
-      "description": "",
+      "description": "iOS 分组列表深色风格 + 品牌蓝",
       "version": "1.0",
       "palette": [
         "#0D1117",
@@ -35,7 +110,7 @@
       "id": "aurora",
       "name": "极光紫",
       "author": "达妮娅",
-      "description": "",
+      "description": "示例自定义主题",
       "version": "1.0",
       "palette": [
         "#14101F",
